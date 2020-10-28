@@ -1,0 +1,11 @@
+/Users/austintruex/Documents/Projects/Blackjack/Blackjack/bin/Debug/netcoreapp2.2/Blackjack.deps.json
+/Users/austintruex/Documents/Projects/Blackjack/Blackjack/bin/Debug/netcoreapp2.2/Blackjack.runtimeconfig.json
+/Users/austintruex/Documents/Projects/Blackjack/Blackjack/bin/Debug/netcoreapp2.2/Blackjack.runtimeconfig.dev.json
+/Users/austintruex/Documents/Projects/Blackjack/Blackjack/bin/Debug/netcoreapp2.2/Blackjack.dll
+/Users/austintruex/Documents/Projects/Blackjack/Blackjack/bin/Debug/netcoreapp2.2/Blackjack.pdb
+/Users/austintruex/Documents/Projects/Blackjack/Blackjack/obj/Debug/netcoreapp2.2/Blackjack.csprojAssemblyReference.cache
+/Users/austintruex/Documents/Projects/Blackjack/Blackjack/obj/Debug/netcoreapp2.2/Blackjack.csproj.CoreCompileInputs.cache
+/Users/austintruex/Documents/Projects/Blackjack/Blackjack/obj/Debug/netcoreapp2.2/Blackjack.AssemblyInfoInputs.cache
+/Users/austintruex/Documents/Projects/Blackjack/Blackjack/obj/Debug/netcoreapp2.2/Blackjack.AssemblyInfo.cs
+/Users/austintruex/Documents/Projects/Blackjack/Blackjack/obj/Debug/netcoreapp2.2/Blackjack.dll
+/Users/austintruex/Documents/Projects/Blackjack/Blackjack/obj/Debug/netcoreapp2.2/Blackjack.pdb
